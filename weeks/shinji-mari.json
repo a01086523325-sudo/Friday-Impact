@@ -1,0 +1,43 @@
+{
+  "songs": [
+    [
+      "Pink Horizon",
+      "mari",
+      [
+        255,
+        105,
+        180
+      ]
+    ],
+    [
+      "Beast Mode",
+      "mari",
+      [
+        235,
+        55,
+        145
+      ]
+    ],
+    [
+      "Final Sync",
+      "mari",
+      [
+        255,
+        75,
+        130
+      ]
+    ]
+  ],
+  "weekCharacters": [
+    "mari",
+    "shinji",
+    ""
+  ],
+  "weekBackground": "mari",
+  "storyName": "Shinji & Mari",
+  "weekBefore": "tutorial",
+  "difficulties": "Easy, Normal, Hard",
+  "startUnlocked": true,
+  "hideStoryMode": false,
+  "hideFreeplay": false
+}
